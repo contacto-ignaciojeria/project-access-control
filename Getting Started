@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T22:13:38.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="BPbaGRI-0e1K7ZD62PIN" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T22:14:30.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="WO9GRzwzhuO2V6a7_bl3" version="17.1.3" type="github">
   <diagram id="zFUOeM2Q_SS19RuCMuUo" name="Page-1">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,22 +14,22 @@
           <mxGeometry x="5" y="50" width="195" height="140" as="geometry" />
         </mxCell>
         <mxCell id="w_e70vcyNkVWl6mfTYRl-9" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="30" y="260" width="80" height="80" as="geometry" />
+          <mxGeometry x="-50" y="260" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w_e70vcyNkVWl6mfTYRl-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_e70vcyNkVWl6mfTYRl-9" target="w_e70vcyNkVWl6mfTYRl-8">
+        <mxCell id="w_e70vcyNkVWl6mfTYRl-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_e70vcyNkVWl6mfTYRl-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="350" as="sourcePoint" />
-            <mxPoint x="450" y="300" as="targetPoint" />
+            <mxPoint x="111" y="300" as="sourcePoint" />
+            <mxPoint x="504" y="311.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="300" />
-              <mxPoint x="200" y="390" />
-              <mxPoint x="503" y="390" />
+              <mxPoint x="201" y="300" />
+              <mxPoint x="201" y="390" />
+              <mxPoint x="504" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w_e70vcyNkVWl6mfTYRl-13" value="User Press Button" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w_e70vcyNkVWl6mfTYRl-11">
+        <mxCell id="w_e70vcyNkVWl6mfTYRl-13" value="User Press Getting Started Button" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w_e70vcyNkVWl6mfTYRl-11">
           <mxGeometry x="-0.8048" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="67" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
