@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T22:07:23.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="mWulZLXARQgczOvLv1Lh" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T22:08:51.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="S3rAopZoV4ApbMiqMoz0" version="17.1.3" type="github">
   <diagram id="zFUOeM2Q_SS19RuCMuUo" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="w_e70vcyNkVWl6mfTYRl-8" value="Getting Started" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="w_e70vcyNkVWl6mfTYRl-1">
           <mxGeometry x="210" y="108.5" width="86" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="w_e70vcyNkVWl6mfTYRl-10" value="&lt;h1&gt;Build Projects Faster&lt;/h1&gt;&lt;p&gt;Start your proyect securing your apps with second factor autentication by default&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="w_e70vcyNkVWl6mfTYRl-1">
-          <mxGeometry x="5" y="50" width="185" height="120" as="geometry" />
+        <mxCell id="w_e70vcyNkVWl6mfTYRl-10" value="&lt;h1&gt;Build Your App Faster&lt;/h1&gt;&lt;p&gt;Start your proyect securing your apps with second factor autentication by default for all of your users&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="w_e70vcyNkVWl6mfTYRl-1">
+          <mxGeometry x="5" y="50" width="195" height="140" as="geometry" />
         </mxCell>
         <mxCell id="w_e70vcyNkVWl6mfTYRl-9" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="80" height="80" as="geometry" />
