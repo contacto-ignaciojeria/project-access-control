@@ -2,6 +2,6 @@ package exception
 
 type BadCredentials struct{}
 
-func Error() string {
+func (e BadCredentials) Error() string {
 	return "bad credentials"
 }
