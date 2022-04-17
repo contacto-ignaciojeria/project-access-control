@@ -5,4 +5,4 @@ import (
 	"pac/src/user/domain"
 )
 
-type SendVerificationCode func(context.Context, domain.User) error
+type SendVerificationCode func(context.Context, domain.Customer) error

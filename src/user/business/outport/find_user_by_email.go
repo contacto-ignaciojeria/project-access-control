@@ -5,4 +5,4 @@ import (
 	"pac/src/user/domain"
 )
 
-type FindUserByEmail func(context.Context,domain.User) (domain.User,error)
+type FindUserByEmail func(context.Context,domain.Customer) (domain.Customer,error)

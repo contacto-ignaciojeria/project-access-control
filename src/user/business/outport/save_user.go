@@ -5,4 +5,4 @@ import (
 	"pac/src/user/domain"
 )
 
-type SaveUser func(context.Context, domain.User)  error
+type SaveUser func(context.Context, domain.Customer)  error

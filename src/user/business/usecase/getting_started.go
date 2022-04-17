@@ -6,12 +6,12 @@ import (
 )
 
 type GettingStartedUseCase interface {
-	Execute(context.Context,domain.User) (domain.User, error)
+	Execute(context.Context,domain.Customer) (domain.Customer, error)
 }
 
 type GettingStarted struct {
 }
 
-func (u *GettingStarted) Execute(ctx context.Context,user domain.User) (domain.User,error){
-	return domain.User{},nil
+func (u *GettingStarted) Execute(ctx context.Context,user domain.Customer) (domain.Customer,error){
+	return domain.Customer{},nil
 }

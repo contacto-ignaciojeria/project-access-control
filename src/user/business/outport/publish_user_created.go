@@ -5,4 +5,4 @@ import (
 	"pac/src/user/domain"
 )
 
-type PublishUserCreated func(context.Context, domain.User) error
+type PublishUserCreated func(context.Context, domain.Customer) error
