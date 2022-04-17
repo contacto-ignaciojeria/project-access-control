@@ -2,7 +2,7 @@ package outport
 
 import (
 	"context"
-	"pac/src/user/domain"
-)
+	"pac/src/customer/domain"
+) 
 
 type PublishCustomerCreated func(context.Context, domain.Customer) error

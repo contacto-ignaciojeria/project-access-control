@@ -2,7 +2,7 @@ package usecase
 
 import (
 	"context"
-	"pac/src/user/domain"
+	"pac/src/customer/domain"
 )
 
 type GettingStartedUseCase interface {
